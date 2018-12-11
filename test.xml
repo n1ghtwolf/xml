@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DATA FORMAT_VERSION="1.0">
+    <RECORD>
+        <NAME>ІНШІ ОРГАНІЗАЦІЙНО-ПРАВОВІ ФОРМИ МАШИНОБУДІВНИЙ ТЕХНІКУМ</NAME>
+        <SHORT_NAME>МАШИНОБУДІВНИЙ ТЕХНІКУМ</SHORT_NAME>
+        <EDRPOU>00234554</EDRPOU>
+        <ADDRESS>23320, Вінницька обл., Тиврівський район, селище міського типу Сутиски, ВУЛИЦЯ ПЕРЕМОГИ, будинок 6</ADDRESS>
+        <BOSS></BOSS>
+        <KVED></KVED>
+        <STAN>зареєстровано, свідоцтво про державну реєстрацію недійсне</STAN>
+    </RECORD>
+    <RECORD>
+        <NAME>ВІДКРИТЕ АКЦІОНЕРНЕ ТОВАРИСТВО &quot;КЕРЧЕНСЬКИЙ ПИВЗАВОД&quot;</NAME>
+        <SHORT_NAME></SHORT_NAME>
+        <EDRPOU>00382786</EDRPOU>
+        <ADDRESS>98300, ВУЛ. АЙВАЗОВСЬКОГО, БУД. 38, М. КЕРЧ, АР КРИМ, УКРАЇНА</ADDRESS>
+        <BOSS></BOSS>
+        <KVED></KVED>
+        <STAN>припинено</STAN>
+    </RECORD>
+</DATA>
